@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="showcase.png" alt="header" height="400"/>
+  <img src="showcase.png" alt="header" height="350"/>
 </p>
 
 # Grayscale
 
-A simple grayscale theme made for relaxed and focused coding.
+A grayscale theme made for relaxed and focused coding.
 
 ## Philosophy
 

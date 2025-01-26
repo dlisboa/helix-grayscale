@@ -23,7 +23,7 @@ your themes directory however you want:
 
 ```shell
 $ git clone https://github.com/dlisboa/helix-grayscale.git
-$ cp helix-grayscale/grayscale.toml $HOME/.config/helix/themes/
+$ cp helix-grayscale/themes/grayscale.toml $HOME/.config/helix/themes/
 ```
 
 ## Usage

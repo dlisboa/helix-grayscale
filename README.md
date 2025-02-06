@@ -8,7 +8,7 @@ A grayscale theme made for relaxed and focused coding.
 
 ## Philosophy
 
-When coding attention should focused on the code itself. Bright and colorful
+When coding attention should be focused on the code itself. Bright and colorful
 themes can reduce concentration for some people.
 
 Code isn't all one big block, however, so this theme eases the eye towards the
@@ -33,6 +33,10 @@ After installing, add the theme to your helix config, e.g. `$HOME/.config/helix/
 ```toml
 theme = "grayscale"
 ```
+
+## Contributing
+
+Contributions are welcome. No huge process here, just open up an issue/PR.
 
 ## License
 
